@@ -2,11 +2,9 @@
 
 - :dizzy: interested in backend Golang development
 
-- 🔭 Right now I'm working on making simple bank application on [Go](https://github.com/zhas-off/simple-bank-service)
-
 - 🌱 I’m currently learning **Go, Postgres, computer networks, RESTful APIs, Mock Testing, Docker, Kubernetes, protobuf, gRPC and etc.**
 
-- 🤝 I’m looking for **any kind of offer(e.g. internship, Junior positions)**
+- 🤝 I’m looking for **any kind of offer(e.g. Middle positions)**
 
 - 📫 How to reach me **https://t.me/zhasofff**
 
